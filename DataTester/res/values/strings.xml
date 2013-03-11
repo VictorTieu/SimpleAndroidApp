@@ -16,5 +16,6 @@
 	<string name="colors0">Black on White</string>
 	<string name="colors1">White on Black</string>
 	<string name="colors2">Yellow on Blue</string>
+	<string name="load_pics">Choose from these saved pictures:</string>
 	
 </resources>

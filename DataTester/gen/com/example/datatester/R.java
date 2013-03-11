@@ -24,14 +24,18 @@ public final class R {
         public static final int delete_btn=0x7f070005;
         public static final int export_btn=0x7f070002;
         public static final int load_btn=0x7f070003;
-        public static final int menu_settings=0x7f07000a;
+        public static final int menu_settings=0x7f07000c;
         public static final int new_btn=0x7f070004;
+        public static final int picID=0x7f07000a;
+        public static final int picName=0x7f07000b;
         public static final int save_btn=0x7f070001;
         public static final int set_colors_btn=0x7f070006;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
         public static final int color_choice=0x7f030001;
+        public static final int load=0x7f030002;
+        public static final int pic_item=0x7f030003;
     }
     public static final class menu {
         public static final int activity_main=0x7f060000;
@@ -47,6 +51,7 @@ public final class R {
         public static final int hello_world=0x7f040001;
         public static final int intro=0x7f040003;
         public static final int load=0x7f040007;
+        public static final int load_pics=0x7f04000f;
         public static final int menu_settings=0x7f040002;
         public static final int new_pic=0x7f040008;
         public static final int save=0x7f040005;
